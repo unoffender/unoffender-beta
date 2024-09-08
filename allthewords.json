@@ -2,7 +2,8 @@
 	"categories": {
 		"facebook": [
 			{
-				"term": "4r5e"
+				"term": "4r5e",
+				"custom":true
 			},
 			{
 				"term": "5h1t"
@@ -18613,7 +18614,8 @@
 				"term": "assfukka"
 			},
 			{
-				"term": "assgoblin"
+				"term": "assgoblin",
+				"custom":true
 			},
 			{
 				"term": "assh0le"
