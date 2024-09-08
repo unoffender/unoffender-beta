@@ -1,5 +1,6 @@
-{
-	"facebook": {
+[
+	{
+		"name": "facebook",
 		"terms": [
 			{
 				"term": "4r5e"
@@ -3042,7 +3043,8 @@
 			}
 		]
 	},
-	"google": {
+	{
+		"name": "google",
 		"terms": [
 			{
 				"term": "2 girls 1 cup"
@@ -5917,7 +5919,8 @@
 			}
 		]
 	},
-	"midjourney": {
+	{
+		"name": "midjourney",
 		"terms": [
 			{
 				"term": "Blood"
@@ -6458,7 +6461,8 @@
 			}
 		]
 	},
-	"steam (banned)": {
+	{
+		"name": "steam (banned)",
 		"terms": [
 			{
 				"term": "n+([ehiy]+|ay|ey|io|[il]+)[bgq$]+h?(a+|aer|a+h+|a+r+|e+|ea|eoa|e+r+|ie|ier|let|lit|o|or|r+|u|uh|uhr|u+r+|ward|y+)s*",
@@ -6733,7 +6737,8 @@
 			}
 		]
 	},
-	"steam (profanity)": {
+	{
+		"name": "steam (profanity)",
 		"terms": [
 			{
 				"term": "(ape|bat|bull?|butt|dip|dog|dumb|ebo|holy|horse|jack|pedo|pig|ubi)\\W*sh(it|ti)s?",
@@ -7253,7 +7258,8 @@
 			}
 		]
 	},
-	"uncategorized": {
+	{
+		"name": "uncategorized",
 		"terms": [
 			{
 				"term": "/*damn",
@@ -18454,7 +18460,8 @@
 			}
 		]
 	},
-	"youtube": {
+	{
+		"name": "youtube",
 		"terms": [
 			{
 				"term": "2 girls 1 cup"
@@ -23660,7 +23667,8 @@
 			}
 		]
 	},
-	"[wiki] ethnic slur": {
+	{
+		"name": "[wiki] ethnic slur",
 		"terms": [
 			{
 				"term": ["Abbie", "Abe", "Abie"],
@@ -27839,7 +27847,8 @@
 			}
 		]
 	},
-	"[wiki] religious slur": {
+	{
+		"name": "[wiki] religious slur",
 		"terms": [
 			{
 				"term": ["Bible beater", "Bible basher"],
@@ -28460,4 +28469,4 @@
 			}
 		]
 	}
-}
+]
