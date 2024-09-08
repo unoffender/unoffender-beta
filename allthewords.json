@@ -3,7 +3,7 @@
 		"facebook": [
 			{
 				"term": "4r5e",
-				"custom":true
+				"modified":true
 			},
 			{
 				"term": "5h1t"
@@ -18615,7 +18615,7 @@
 			},
 			{
 				"term": "assgoblin",
-				"custom":true
+				"modified":true
 			},
 			{
 				"term": "assh0le"
