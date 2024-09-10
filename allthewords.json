@@ -18000,7 +18000,7 @@
 	},
 	{
 		"name": "Accumulated list",
-		"description":"Mainly generated from various moderator blocklists and AI hate speech training data. Some (really) bad takes found (like 'white people' and 'black'), but the whole list haven't been reviewed manually. Exclude terrible takes below or removing them under the words tab. Use this list with all other packages as a maximum algo-trigger warner",
+		"description":"Generated from various moderator blocklists and AI/ML hate speech training. Not reviewed manually. Use with all other enabled too for 'maximum algo-trigger warning'",
 		"included":false,
 		"terms": [
 			{
