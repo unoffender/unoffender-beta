@@ -7258,14 +7258,13 @@
 		]
 	},
 	{
-		"name": "uncategorized",
+		"name": "Accumulated list",
+		"name":"Mainly generated from various moderator blocklists and AI hate speech training data. Some (really) bad takes found (like 'white people' and 'black'), but the whole list haven't been reviewed manually. Exclude terrible takes below or removing them under the words tab. Use this list with all other packages as a maximum algo-trigger warner",
+		"included":false,
 		"terms": [
 			{
 				"term": "/*damn",
 				"pattern": true
-			},
-			{
-				"term": "longer test"
 			},
 			{
 				"term": "/*fuck/*",
