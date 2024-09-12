@@ -7258,8 +7258,8 @@
         ]
     },
     {
-        "name": "youtube",
-        "description": "leaked terms affecting youtube comments and possibly videos",
+        "name": "Youtube",
+        "description": "Leaked terms affecting youtube comments and possibly videos",
         "terms": [
             {
                 "term": "2 girls 1 cup"
