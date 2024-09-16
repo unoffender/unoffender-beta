@@ -1,6 +1,5 @@
-[
-	{
-		"name": "Facebook",
+{
+	"Facebook": {
 		"description": "Leaked algo-triggering words",
 		"terms": [
 			{
@@ -3038,8 +3037,7 @@
 			}
 		]
 	},
-	{
-		"name": "Google",
+	"Google": {
 		"description": "Leaked terms from google - effect of use unknown",
 		"terms": [
 			{
@@ -5915,8 +5913,7 @@
 			}
 		]
 	},
-	{
-		"name": "Midjourney",
+	"Midjourney": {
 		"description": "Terms triggered when prompting",
 		"terms": [
 			{
@@ -6458,8 +6455,7 @@
 			}
 		]
 	},
-	{
-		"name": "Steam (banned)",
+	"Steam (banned)": {
 		"description": "2021 leak. Terms banned by steam",
 		"terms": [
 			{
@@ -6735,8 +6731,7 @@
 			}
 		]
 	},
-	{
-		"name": "Steam (profanity)",
+	"Steam (profanity)": {
 		"description": "2021 leak. Terms triggering profanity filter",
 		"terms": [
 			{
@@ -7257,8 +7252,7 @@
 			}
 		]
 	},
-	{
-		"name": "Youtube",
+	"Youtube": {
 		"description": "Leaked terms affecting youtube comments and possibly videos",
 		"terms": [
 			{
@@ -12465,8 +12459,7 @@
 			}
 		]
 	},
-	{
-		"name": "Ethnic slurs",
+	"Ethnic slurs": {
 		"description": "Includes wiki description",
 		"terms": [
 			{
@@ -12860,7 +12853,7 @@
 			},
 			{
 				"term": "Lubra",
-				"description": "Location or origin: Likely derived from a Tasmanian Aboriginal language.<br>Targets: Australian Aboriginal Women<br>Meaning, origin and notes:"
+				"description": "Location or origin: Likely derived from a Tasmanian Aboriginal language.[396]<br>Targets: Australian Aboriginal Women<br>Meaning, origin and notes:"
 			},
 			{
 				"term": "Lundy",
@@ -12982,7 +12975,7 @@
 			},
 			{
 				"term": ["Mulignan", "Mulignon", "Moolinyan"],
-				"description": "Location or origin: United States<br>Targets: Black people<br>Meaning, origin and notes: Used by Italian-Americans. Deriving from \"mulignana\" the word for eggplant in some South Italian linguistic variants. Also called a mouli."
+				"description": "Location or origin: United States<br>Targets: Black people<br>Meaning, origin and notes: Used by Italian-Americans. Deriving from \"mulignana\" the word for eggplant in some South Italian linguistic variants.[442] Also called a mouli."
 			},
 			{
 				"term": "Munt",
@@ -13101,7 +13094,7 @@
 			},
 			{
 				"term": "Orc",
-				"description": "Location or origin: Ukraine<br>Targets: Russian soldiers<br>Meaning, origin and notes: Orc (Cyrillic: \u043e\u0440\u043a, romanised: ork), plural orcs (Russian and Ukrainian: \u043e\u0440\u043a\u0438, Russian romanisation: orki, Ukrainian: orky), is a pejorative used by Ukrainians to refer to an invading Russian soldier during the Russo-Ukrainian War. It comes from the name of the fictional humanoid monsters of the same name from J. R. R. Tolkien's fantasy novel The Lord of the Rings."
+				"description": "Location or origin: Ukraine<br>Targets: Russian soldiers<br>Meaning, origin and notes: Orc (Cyrillic: \u043e\u0440\u043a, romanised: ork), plural orcs (Russian and Ukrainian: \u043e\u0440\u043a\u0438, Russian romanisation: orki, Ukrainian: orky), is a pejorative used by Ukrainians[468] to refer to an invading Russian soldier[469][470] during the Russo-Ukrainian War. It comes from the name of the fictional humanoid monsters of the same name from J. R. R. Tolkien's fantasy novel The Lord of the Rings."
 			},
 			{
 				"term": "Oreo",
@@ -13877,7 +13870,7 @@
 			},
 			{
 				"term": "Twinkie",
-				"description": "Location or origin: United States<br>Targets: European Americans, Asian Americans<br>Meaning, origin and notes: European Americans with few or no social or genealogical links to an indigenous tribe, who claims to be Native American, particularly a New Age practitioner purporting to be a spiritual leader, healer, or medicine man/woman (see also Plastic shaman). Also an Asian American who has become assimilated into mainstream American culture (See Banana, Coconut, and Twinkie)."
+				"description": "Location or origin: United States<br>Targets: European Americans, Asian Americans<br>Meaning, origin and notes: European Americans with few or no social or genealogical links to an indigenous tribe, who claims to be Native American, particularly a New Age practitioner purporting to be a spiritual leader, healer, or medicine man/woman (see also Plastic shaman). Also an Asian American who has become assimilated into mainstream American culture (See Banana, Coconut, and Twinkie).[41]"
 			},
 			{
 				"term": "Type C",
@@ -13885,7 +13878,7 @@
 			},
 			{
 				"term": ["Ukro-Nazi", "Ukronazi", "Ukrofascist"],
-				"description": "Location or origin: Russia<br>Targets: Ukrainians<br>Meaning, origin and notes: Label used to link self-identifying Ukrainians during the Russo-Ukrainian War to Nazism, evoke Soviet victory in WWII, and justify Russian atrocities in Ukraine. Russian: \u0443\u043a\u0440\u043e-\u043d\u0430\u0446\u0438\u0441\u0442, romanized:\u00a0ukro-natsist, \u0443\u043a\u0440\u043e-\u0444\u0430\u0448\u0438\u0441\u0442, ukro-fashist."
+				"description": "Location or origin: Russia<br>Targets: Ukrainians<br>Meaning, origin and notes: Label used to link self-identifying Ukrainians during the Russo-Ukrainian War to Nazism, evoke Soviet victory in WWII, and justify Russian atrocities in Ukraine. Russian: \u0443\u043a\u0440\u043e-\u043d\u0430\u0446\u0438\u0441\u0442, romanized:\u00a0ukro-natsist,[675][676] \u0443\u043a\u0440\u043e-\u0444\u0430\u0448\u0438\u0441\u0442, ukro-fashist."
 			},
 			{
 				"term": "Ukrop",
@@ -14158,7 +14151,7 @@
 			},
 			{
 				"term": "Churka \u0447\u0443\u0440\u043a\u0430",
-				"description": "Location or origin: Russia<br>Targets: Western and Central Asians<br>Meaning, origin and notes: 1. Chock of wood 2. Ignorant person"
+				"description": "Location or origin: Russia<br>Targets: Western and Central Asians<br>Meaning, origin and notes: 1. Chock of wood[133] 2. Ignorant person[133]"
 			},
 			{
 				"term": ["Ciapaty", "ciapak"],
@@ -14202,7 +14195,7 @@
 			},
 			{
 				"term": "Coon",
-				"description": "Location or origin: United States, Commonwealth<br>Targets: Black people<br>Meaning, origin and notes: Slur popularized by Coon songs played at Minstrel show. Originally associated in the 1830s with the U.S. Whig Party who used a raccoon as their emblem. The Whigs were more tolerant towards blacks than other main parties. After the party folded the term \"coon\" evolved from political slang into a racial slur. Within African American communities, the word has been used to refer to a black person who is allegedly a \"sellout\"."
+				"description": "Location or origin: United States, Commonwealth<br>Targets: Black people<br>Meaning, origin and notes: Slur popularized by Coon songs played at Minstrel show. Originally associated in the 1830s with the U.S. Whig Party who used a raccoon as their emblem. The Whigs were more tolerant towards blacks than other main parties. After the party folded the term \"coon\" evolved from political slang into a racial slur. Within African American communities, the word has been used to refer to a black person who is allegedly a \"sellout\".[148]"
 			},
 			{
 				"term": "Coon",
@@ -14459,7 +14452,7 @@
 			},
 			{
 				"term": ["Greaseball", "Greaser"],
-				"description": "Location or origin: United States<br>Targets: Mediterranean/Southern European and Hispanic people, and especially Italian people.<br>Meaning, origin and notes: Greaseball often generally refers to Italians or a person of Italian descent. Meanwhile, though it may be used as a shortening of greaseball to refer to Italians, greaser has been more often applied to Hispanic Americans or Mexican Americans. However, greaseball (and to a lesser extent, greaser) can also refer to any person of Mediterranean/Southern European descent or Hispanic descent, including Greeks, Spaniards, and the Portuguese, as well as Latin Americans. Greaser also refer to members of a 1950-1960s subculture which Italian Americans and Hispanic Americans were stereotyped to be a part of. \"Greaser\" in reference to the subculture has taken on a less derogatory connotation since the 1950s."
+				"description": "Location or origin: United States<br>Targets: Mediterranean/Southern European and Hispanic people, and especially Italian people.<br>Meaning, origin and notes: Greaseball often generally refers to Italians or a person of Italian descent. Meanwhile, though it may be used as a shortening of greaseball to refer to Italians, greaser has been more often applied to Hispanic Americans or Mexican Americans. However, greaseball (and to a lesser extent, greaser) can also refer to any person of Mediterranean/Southern European descent or Hispanic descent, including Greeks, Spaniards, and the Portuguese, as well as Latin Americans.[243][244] Greaser also refer to members of a 1950-1960s subculture which Italian Americans and Hispanic Americans were stereotyped to be a part of. \"Greaser\" in reference to the subculture has taken on a less derogatory connotation since the 1950s."
 			},
 			{
 				"term": "Greenhorn",
@@ -14663,13 +14656,12 @@
 			}
 		]
 	},
-	{
-		"name": "Religious slurs",
+	"Religious slurs": {
 		"description": "Includes wiki description.",
 		"terms": [
 			{
 				"term": ["Bible beater", "Bible basher"],
-				"description": "Location of origin: North America<br>Targeted demographic: Pentecostals<br>Meaning, origin and notes: A dysphemism for people who believe in the fundamentalist authority of the Bible, particularly those from a Pentecostal or fundamentalist denomination. It is also a slang term for an evangelising Christian. Commonly used universally against Christians who are perceived to go out of their way to energetically preach their faith to others."
+				"description": "Location of origin: North America<br>Targeted demographic: Pentecostals<br>Meaning, origin and notes: A dysphemism for people who believe in the fundamentalist authority of the Bible, particularly those from a Pentecostal or fundamentalist denomination.[1] It is also a slang term for an evangelising Christian. Commonly used universally against Christians who are perceived to go out of their way to energetically preach their faith to others."
 			},
 			{
 				"term": "Bible thumper",
@@ -14765,7 +14757,7 @@
 			},
 			{
 				"term": "Papist",
-				"description": "Location of origin: Northern Ireland, North America<br>Targeted demographic: Roman Catholic<br>Meaning, origin and notes: Usually Irish Catholic; online often used generically for any Catholic."
+				"description": "Location of origin: Northern Ireland, North America<br>Targeted demographic: Roman Catholic<br>Meaning, origin and notes: Usually Irish Catholic; online often used generically for any Catholic.[30]"
 			},
 			{
 				"term": "Red letter tribe",
@@ -14914,7 +14906,7 @@
 			},
 			{
 				"term": ["Abbie", "Abie"],
-				"description": "Location of origin: North America<br>Targeted demographic: Jewish male<br>Meaning, origin and notes: A Jewish male. From the proper name Abraham. Originated before the 1950s."
+				"description": "Location of origin: North America<br>Targeted demographic: Jewish male<br>Meaning, origin and notes: A Jewish male. From the proper name Abraham. Originated before the 1950s.[40]"
 			},
 			{
 				"term": "Christ-killer",
@@ -14982,8 +14974,7 @@
 			}
 		]
 	},
-	{
-		"name": "Christian Blacklist",
+	"Christian Blacklist": {
 		"description": "By FrontGate Media for use on Christian communities",
 		"terms": [
 			{
@@ -17157,8 +17148,7 @@
 			}
 		]
 	},
-	{
-		"name": "Accumulated list",
+	"Accumulated list": {
 		"description": "Generated from various moderator blocklists and AI/ML hate speech training. Not reviewed manually. Use with all other enabled too for 'maximum algo-trigger warning'",
 		"included": false,
 		"terms": [
@@ -28358,4 +28348,4 @@
 			}
 		]
 	}
-]
+}
