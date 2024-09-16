@@ -28366,7 +28366,7 @@
 				"term": "wtf"
 			}
 		]
-	}
+	},
 	"NotDefaultFetched": {
 		"description": "Leaked algo-triggering words",
 		"fetchCat": false,
