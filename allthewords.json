@@ -1,8 +1,8 @@
 {
 	"Facebook": {
 		"description": "Leaked algo-triggering words",
-		"fetch": true,
-		"includeByDefault": true,
+		"fetchCat": true,
+		"included": true,
 		"terms": [
 			{
 				"term": "5hit"
@@ -3041,8 +3041,8 @@
 	},
 	"Google": {
 		"description": "Leaked terms from google - effect of use unknown",
-		"fetch": true,
-		"includeByDefault": true,
+		"fetchCat": true,
+		"included": true,
 		"terms": [
 			{
 				"term": "2 girls 1 cup"
@@ -5919,8 +5919,8 @@
 	},
 	"Midjourney": {
 		"description": "Terms triggered when prompting",
-		"fetch": true,
-		"includeByDefault": true,
+		"fetchCat": true,
+		"included": true,
 		"terms": [
 			{
 				"term": "Blood"
@@ -6463,8 +6463,8 @@
 	},
 	"Steam (banned)": {
 		"description": "2021 leak. Terms banned by steam",
-		"fetch": true,
-		"includeByDefault": true,
+		"fetchCat": true,
+		"included": true,
 		"terms": [
 			{
 				"term": "n+([ehiy]+|ay|ey|io|[il]+)[bgq$]+h?(a+|aer|a+h+|a+r+|e+|ea|eoa|e+r+|ie|ier|let|lit|o|or|r+|u|uh|uhr|u+r+|ward|y+)s*",
@@ -6741,8 +6741,8 @@
 	},
 	"Steam (profanity)": {
 		"description": "2021 leak. Terms triggering profanity filter",
-		"fetch": true,
-		"includeByDefault": true,
+		"fetchCat": true,
+		"included": true,
 		"terms": [
 			{
 				"term": "(ape|bat|bull?|butt|dip|dog|dumb|ebo|holy|horse|jack|pedo|pig|ubi)\\W*sh(it|ti)s?",
@@ -7264,8 +7264,8 @@
 	},
 	"Youtube": {
 		"description": "Leaked terms affecting youtube comments and possibly videos",
-		"fetch": true,
-		"includeByDefault": true,
+		"fetchCat": true,
+		"included": true,
 		"terms": [
 			{
 				"term": "2 girls 1 cup"
@@ -12473,8 +12473,8 @@
 	},
 	"Ethnic slurs": {
 		"description": "Includes wiki description",
-		"fetch": true,
-		"includeByDefault": true,
+		"fetchCat": true,
+		"included": true,
 		"terms": [
 			{
 				"term": ["Abbie", "Abe", "Abie"],
@@ -14672,8 +14672,8 @@
 	},
 	"Religious slurs": {
 		"description": "Includes wiki description.",
-		"fetch": true,
-		"includeByDefault": true,
+		"fetchCat": true,
+		"included": true,
 		"terms": [
 			{
 				"term": ["Bible beater", "Bible basher"],
@@ -14992,8 +14992,8 @@
 	},
 	"Christian Blacklist": {
 		"description": "By FrontGate Media for use on Christian communities",
-		"fetch": true,
-		"includeByDefault": true,
+		"fetchCat": true,
+		"included": true,
 		"terms": [
 			{
 				"term": "a55"
@@ -17168,8 +17168,8 @@
 	},
 	"Accumulated list": {
 		"description": "Generated from various moderator blocklists and AI/ML hate speech training. Not reviewed manually. Use with all other enabled too for 'maximum algo-trigger warning'",
-		"fetch": true,
-		"includeByDefault": false,
+		"fetchCat": true,
+		"included": false,
 		"terms": [
 			{
 				"term": "/*damn",
