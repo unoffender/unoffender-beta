@@ -28367,4 +28367,17 @@
 			}
 		]
 	}
+	"NotDefaultFetched": {
+		"description": "Leaked algo-triggering words",
+		"fetchCat": false,
+		"included": false,
+		"terms": [
+			{
+				"term": "shouldn't be shown by default"
+			},
+			{
+				"term": "also shouldn't be shown by default"
+			}
+		]
+	}
 }
