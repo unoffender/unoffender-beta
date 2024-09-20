@@ -2,6 +2,7 @@
 	"Facebook": {
 		"description": "Leaked algo-triggering words",
 		"fetchCat": true,
+		"api": true,
 		"included": true,
 		"terms": [
 			{
@@ -3042,6 +3043,7 @@
 	"Google": {
 		"description": "Leaked terms from google - effect of use unknown",
 		"fetchCat": true,
+		"api": true,
 		"included": true,
 		"terms": [
 			{
@@ -5920,6 +5922,7 @@
 	"Midjourney": {
 		"description": "Terms triggered when prompting",
 		"fetchCat": true,
+		"api": true,
 		"included": true,
 		"terms": [
 			{
@@ -6464,6 +6467,7 @@
 	"Steam (banned)": {
 		"description": "2021 leak. Terms banned by steam",
 		"fetchCat": true,
+		"api": true,
 		"included": true,
 		"terms": [
 			{
@@ -6742,6 +6746,7 @@
 	"Steam (profanity)": {
 		"description": "2021 leak. Terms triggering profanity filter",
 		"fetchCat": true,
+		"api": true,
 		"included": true,
 		"terms": [
 			{
@@ -7265,6 +7270,7 @@
 	"Youtube": {
 		"description": "Leaked terms affecting youtube comments and possibly videos",
 		"fetchCat": true,
+		"api": true,
 		"included": true,
 		"terms": [
 			{
@@ -12474,6 +12480,7 @@
 	"Ethnic slurs": {
 		"description": "Includes wiki description",
 		"fetchCat": true,
+		"api": true,
 		"included": true,
 		"terms": [
 			{
@@ -14673,6 +14680,7 @@
 	"Religious slurs": {
 		"description": "Includes wiki description.",
 		"fetchCat": true,
+		"api": true,
 		"included": true,
 		"terms": [
 			{
@@ -14993,6 +15001,7 @@
 	"Christian Blacklist": {
 		"description": "By FrontGate Media for use on Christian communities",
 		"fetchCat": true,
+		"api": true,
 		"included": true,
 		"terms": [
 			{
@@ -17169,6 +17178,7 @@
 	"Accumulated list": {
 		"description": "Generated from various moderator blocklists and AI/ML hate speech training. Not reviewed manually. Use with all other enabled too for 'maximum algo-trigger warning'",
 		"fetchCat": true,
+		"api": true,
 		"included": false,
 		"terms": [
 			{
@@ -28370,6 +28380,7 @@
 	"NotDefaultFetched": {
 		"description": "Leaked algo-triggering words",
 		"fetchCat": false,
+		"api": true,
 		"included": false,
 		"terms": [
 			{
