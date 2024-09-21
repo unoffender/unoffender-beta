@@ -28381,6 +28381,7 @@
 		"description": "Leaked algo-triggering words",
 		"fetchCat": false,
 		"api": true,
+		"deleted":true,
 		"included": false,
 		"terms": [
 			{
