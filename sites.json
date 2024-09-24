@@ -46,7 +46,7 @@
 	"included": true,
         "querySelector": "[data-lexical-editor='true']",
         "hostname": "reddit.com",
-        "includedCats": ["facebook", "google"]
+        "includedCategories": ["facebook", "google"]
     }
 }
 
