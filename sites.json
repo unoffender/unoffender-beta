@@ -1,5 +1,8 @@
 {
     "youtube": {
+        "fetchCat": true,
+		"api": true,
+		"included": true,
         "overlay": {
             "top": 0,
             "height": 0
@@ -8,24 +11,39 @@
         "hostname": "youtube.com"
     },
     "steamcommunity": {
+        "fetchCat": true,
+		"api": true,
+		"included": true,
         "treeWalker": false,
         "querySelector": ".forumtopic_reply_textarea",
         "hostname": "steamcommunity.com"
     },
     "x": {
+        "fetchCat": true,
+		"api": true,
+		"included": true,
         "querySelector": ".DraftEditor-editorContainer",
         "hostname": "x.com",
         "disable": false
     },
     "facebook": {
+        "fetchCat": true,
+		"api": true,
+		"included": true,
         "querySelector": "[data-testid='statusTextarea']",
         "hostname": "Facebook"
     },
     "linkedin": {
+        "fetchCat": true,
+		"api": true,
+		"included": true,
         "querySelector": ".share-box__text-editor",
         "hostname": "LinkedIn"
     },
     "reddit": {
+        "fetchCat": true,
+		"api": true,
+		"included": true,
         "querySelector": "[data-lexical-editor='true']",
         "hostname": "reddit.com",
         "includedCats": ["facebook", "google"]
