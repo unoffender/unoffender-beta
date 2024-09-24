@@ -1,0 +1,34 @@
+{
+    "youtube": {
+        "overlay": {
+            "top": 0,
+            "height": 0
+        },
+        "querySelector": "#contenteditable-root",
+        "hostname": "youtube.com"
+    },
+    "steamcommunity": {
+        "treeWalker": false,
+        "querySelector": ".forumtopic_reply_textarea",
+        "hostname": "steamcommunity.com"
+    },
+    "x": {
+        "querySelector": ".DraftEditor-editorContainer",
+        "hostname": "x.com",
+        "disable": false
+    },
+    "facebook": {
+        "querySelector": "[data-testid='statusTextarea']",
+        "hostname": "Facebook"
+    },
+    "linkedin": {
+        "querySelector": ".share-box__text-editor",
+        "hostname": "LinkedIn"
+    },
+    "reddit": {
+        "querySelector": "[data-lexical-editor='true']",
+        "hostname": "reddit.com",
+        "includedCats": ["facebook", "google"]
+    }
+}
+
