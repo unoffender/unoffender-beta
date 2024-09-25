@@ -47,6 +47,13 @@
         "querySelector": "[data-lexical-editor='true']",
         "hostname": "reddit.com",
         "includedCategories": ["facebook", "google"]
+    },
+    "chatGPT": {
+	"fetchCat": true,
+	"api": true,
+	"included": true,
+	"querySelector": "#prompt-textarea",
+	"hostname": "chatgpt.com",
     }
 }
 
