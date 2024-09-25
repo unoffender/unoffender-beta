@@ -52,6 +52,7 @@
 	"fetchCat": true,
 	"api": true,
 	"included": true,
+	"treeWalker":true,
 	"querySelector": "#prompt-textarea",
 	"hostname": "chatgpt.com"
     }
