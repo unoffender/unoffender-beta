@@ -2,7 +2,7 @@
     "youtube": {
         "fetchCat": true,
 	"api": true,
-	"included": true,
+	"enabled": true,
         "overlay": {
             "top": 0,
             "height": 0
@@ -13,7 +13,7 @@
     "steamcommunity": {
         "fetchCat": true,
 	"api": true,
-	"included": true,
+	"enabled": true,
         "treeWalker": false,
         "querySelector": ".forumtopic_reply_textarea",
         "hostname": "steamcommunity.com"
@@ -21,7 +21,7 @@
     "x": {
         "fetchCat": true,
 	"api": true,
-	"included": true,
+	"enabled": true,
         "querySelector": ".DraftEditor-editorContainer",
         "hostname": "x.com",
         "disable": false
@@ -29,29 +29,29 @@
     "facebook": {
         "fetchCat": true,
 	"api": true,
-	"included": true,
+	"enabled": true,
         "querySelector": "[data-testid='statusTextarea']",
         "hostname": "Facebook"
     },
     "linkedin": {
         "fetchCat": true,
 	"api": true,
-	"included": true,
+	"enabled": true,
         "querySelector": ".share-box__text-editor",
         "hostname": "LinkedIn"
     },
     "reddit": {
         "fetchCat": true,
 	"api": true,
-	"included": true,
+	"enabled": true,
         "querySelector": "[data-lexical-editor='true']",
         "hostname": "reddit.com",
-        "includedCategories": ["facebook", "google"]
+        "enabledCategories": ["facebook", "google"]
     },
     "chatGPT": {
 	"fetchCat": true,
 	"api": true,
-	"included": true,
+	"enabled": true,
 	"treeWalker":true,
 	"querySelector": "#prompt-textarea",
 	"hostname": "chatgpt.com"
