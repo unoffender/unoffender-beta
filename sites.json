@@ -23,6 +23,7 @@
 	"api": true,
 	"enabled": true,
         "querySelector": ".DraftEditor-editorContainer",
+	"querySelectors": [".DraftEditor-editorContainer"],
         "hostname": "x.com",
         "disable": false
     },
