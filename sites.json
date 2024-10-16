@@ -7,7 +7,7 @@
             "top": 0,
             "height": 0
         },
-        "querySelector": "#contenteditable-root",
+        "querySelectors": ["#contenteditable-root"],
         "hostname": "youtube.com"
     },
     "steamcommunity": {
@@ -15,14 +15,13 @@
 	"api": true,
 	"enabled": true,
         "treeWalker": false,
-        "querySelector": ".forumtopic_reply_textarea",
+        "querySelectors": [".forumtopic_reply_textarea"],
         "hostname": "steamcommunity.com"
     },
     "x": {
         "fetchSite": true,
 	"api": true,
 	"enabled": true,
-        "querySelector": ".DraftEditor-editorContainer",
 	"querySelectors": [".DraftEditor-editorContainer"],
         "hostname": "x.com",
         "disable": false
@@ -31,21 +30,21 @@
         "fetchSite": true,
 	"api": true,
 	"enabled": true,
-        "querySelector": "[data-testid='statusTextarea']",
+        "querySelectors": ["[data-testid='statusTextarea']"],
         "hostname": "Facebook"
     },
     "linkedin": {
         "fetchSite": true,
 	"api": true,
 	"enabled": true,
-        "querySelector": ".share-box__text-editor",
+        "querySelectors": [".share-box__text-editor"],
         "hostname": "LinkedIn"
     },
     "reddit": {
         "fetchSite": true,
 	"api": true,
 	"enabled": true,
-        "querySelector": "[data-lexical-editor='true']",
+        "querySelector": ["[data-lexical-editor='true']"],
         "hostname": "reddit.com",
         "enabledCategories": ["facebook", "google"]
     },
@@ -54,7 +53,7 @@
 	"api": true,
 	"enabled": true,
 	"treeWalker":true,
-	"querySelector": "#prompt-textarea",
+	"querySelectors": ["#prompt-textarea"],
 	"hostname": "chatgpt.com"
     }
 }
