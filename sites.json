@@ -44,7 +44,7 @@
         "fetchSite": true,
 	"api": true,
 	"enabled": true,
-        "querySelector": ["[data-lexical-editor='true']"],
+        "querySelectors": ["[data-lexical-editor='true']"],
         "hostname": "reddit.com",
         "enabledCategories": ["facebook", "google"]
     },
