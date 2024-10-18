@@ -3,10 +3,6 @@
         "fetchSite": true,
 	"api": true,
 	"enabled": true,
-        "overlay": {
-            "top": 0,
-            "height": 0
-        },
         "querySelectors": ["#contenteditable-root"],
         "hostname": "youtube.com"
     },
@@ -14,7 +10,7 @@
         "fetchSite": true,
 	"api": true,
 	"enabled": true,
-        "treeWalker": false,
+        "markingMethod": "topbar",
         "querySelectors": [".forumtopic_reply_textarea"],
         "hostname": "steamcommunity.com"
     },
@@ -24,7 +20,6 @@
 	"enabled": true,
 	"querySelectors": [".DraftEditor-editorContainer"],
         "hostname": "x.com",
-        "disable": false
     },
     "facebook": {
         "fetchSite": true,
@@ -46,13 +41,11 @@
 	"enabled": true,
         "querySelectors": ["[data-lexical-editor='true']"],
         "hostname": "reddit.com",
-        "enabledCategories": ["facebook", "google"]
     },
     "chatGPT": {
 	"fetchSite": true,
 	"api": true,
 	"enabled": true,
-	"treeWalker":true,
 	"querySelectors": ["#prompt-textarea"],
 	"hostname": "chatgpt.com"
     }
