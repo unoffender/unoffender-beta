@@ -19,7 +19,7 @@
 	"api": true,
 	"enabled": true,
 	"querySelectors": [".DraftEditor-editorContainer"],
-        "hostname": "x.com",
+        "hostname": "x.com"
     },
     "facebook": {
         "fetchSite": true,
