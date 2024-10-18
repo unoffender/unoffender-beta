@@ -40,7 +40,7 @@
 	"api": true,
 	"enabled": true,
         "querySelectors": ["[data-lexical-editor='true']"],
-        "hostname": "reddit.com",
+        "hostname": "reddit.com"
     },
     "chatGPT": {
 	"fetchSite": true,
