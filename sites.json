@@ -10,7 +10,7 @@
         "fetchSite": true,
 	"api": true,
 	"enabled": true,
-        "markingMethod": "topbar",
+        "markingMethod": "shadowEditor",
         "querySelectors": [".forumtopic_reply_textarea"],
         "hostname": "steamcommunity.com"
     },
