@@ -1,7 +1,7 @@
 {
     "youtube": {
         "fetchSite": true,
-	"description":"animated adpocalypse generator",
+	"description":"video-based adpocalypse generator",
 	"api": true,
 	"enabled": true,
         "querySelectors": ["#contenteditable-root"],
