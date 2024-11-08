@@ -32,6 +32,7 @@
         "hostname": "Facebook"
     },
     "linkedin": {
+	"description": "jesus marie, i'm not commenting - i'm networking",
         "fetchSite": true,
 	"api": true,
 	"enabled": true,
