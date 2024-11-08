@@ -16,6 +16,7 @@
     },
     "x": {
         "fetchSite": true,
+	"description":"you can rename this twitter - they won't know",
 	"api": true,
 	"enabled": true,
 	"querySelectors": [".DraftEditor-editorContainer"],
