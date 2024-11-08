@@ -1,6 +1,7 @@
 {
     "youtube": {
         "fetchSite": true,
+	"description":"animated adpocalypse generator",
 	"api": true,
 	"enabled": true,
         "querySelectors": ["#contenteditable-root"],
@@ -8,6 +9,7 @@
     },
     "steamcommunity": {
         "fetchSite": true,
+	"description":"don't make readers suffer the ??? - use unoffender's steam profanity filter to catch the worst (hopefully)",
 	"api": true,
 	"enabled": true,
         "markingMethod": "shadowEditor",
