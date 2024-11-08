@@ -46,6 +46,7 @@
         "hostname": "reddit.com"
     },
     "chatGPT": {
+	"description":"don't trigger the extinction event - use unoffender",
 	"fetchSite": true,
 	"api": true,
 	"enabled": true,
