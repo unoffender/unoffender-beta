@@ -9,7 +9,7 @@
     },
     "steamcommunity": {
         "fetchSite": true,
-	"description":"make Gabe Newell happy, use unoffender - tree walker won't work here",
+	"description":"make Gabe happy, use unoffender - tree walker won't work here",
 	"api": true,
 	"enabled": true,
         "markingMethod": "shadowEditor",
