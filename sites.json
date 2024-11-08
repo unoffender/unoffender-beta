@@ -16,6 +16,13 @@
         "querySelectors": [".forumtopic_reply_textarea"],
         "hostname": "steamcommunity.com"
     },
+	"gmail": {
+		"fetchSite": true,
+		"api": true,
+		"enabled": true,
+		"querySelectors": ["#\:s4"],
+		"hostname": "mail.google.com"
+	},
     "x": {
         "fetchSite": true,
 	"description":"you can rename this to twitter - they won't know",
