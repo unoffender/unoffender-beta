@@ -1,21 +1,21 @@
 {
-    "youtube": {
-        "fetchSite": true,
-	"description":"video-based adpocalypse generator",
-	"api": true,
-	"enabled": true,
-        "querySelectors": ["#contenteditable-root"],
-        "hostname": "youtube.com"
-    },
-    "steamcommunity": {
-        "fetchSite": true,
-	"description":"make Gabe happy, use unoffender - tree walker won't work here",
-	"api": true,
-	"enabled": true,
-        "markingMethod": "shadowEditor",
-        "querySelectors": [".forumtopic_reply_textarea"],
-        "hostname": "steamcommunity.com"
-    },
+	"youtube": {
+		"fetchSite": true,
+		"description": "video-based adpocalypse generator",
+		"api": true,
+		"enabled": true,
+		"querySelectors": ["#contenteditable-root"],
+		"hostname": "youtube.com"
+	},
+	"steamcommunity": {
+		"fetchSite": true,
+		"description": "make Gabe happy, use unoffender - tree walker won't work here",
+		"api": true,
+		"enabled": true,
+		"markingMethod": "shadowEditor",
+		"querySelectors": [".forumtopic_reply_textarea"],
+		"hostname": "steamcommunity.com"
+	},
 	"gmail": {
 		"fetchSite": true,
 		"api": true,
@@ -23,43 +23,45 @@
 		"querySelectors": ["#\\:s4"],
 		"hostname": "mail.google.com"
 	},
-    "x": {
-        "fetchSite": true,
-	"description":"you can rename this to twitter - they won't know",
-	"api": true,
-	"enabled": true,
-	"querySelectors": [".DraftEditor-editorContainer"],
-        "hostname": "x.com"
-    },
-    "facebook": {
-        "fetchSite": true,
-	"api": true,
-	"enabled": true,
-        "querySelectors": ["[data-testid='statusTextarea']"],
-        "hostname": "Facebook"
-    },
-    "linkedin": {
-	"description": "jesus marie, i'm not commenting - i'm networking",
-        "fetchSite": true,
-	"api": true,
-	"enabled": true,
-        "querySelectors": [".share-box__text-editor", ".comments-comment-box-comment__text-editor"],
-        "hostname": "linkedin.com"
-    },
-    "reddit": {
-        "fetchSite": true,
-	"api": true,
-	"enabled": true,
-        "querySelectors": ["[data-lexical-editor='true']"],
-        "hostname": "reddit.com"
-    },
-    "chatGPT": {
-	"description":"don't trigger the extinction event - use unoffender",
-	"fetchSite": true,
-	"api": true,
-	"enabled": true,
-	"querySelectors": ["#prompt-textarea"],
-	"hostname": "chatgpt.com"
-    }
+	"x": {
+		"fetchSite": true,
+		"description": "you can rename this to twitter - they won't know",
+		"api": true,
+		"enabled": true,
+		"querySelectors": [".DraftEditor-editorContainer"],
+		"hostname": "x.com"
+	},
+	"facebook": {
+		"fetchSite": true,
+		"api": true,
+		"enabled": true,
+		"querySelectors": ["[data-testid='statusTextarea']"],
+		"hostname": "Facebook"
+	},
+	"linkedin": {
+		"description": "jesus marie, i'm not commenting - i'm networking",
+		"fetchSite": true,
+		"api": true,
+		"enabled": true,
+		"querySelectors": [
+			".share-box__text-editor",
+			".comments-comment-box-comment__text-editor"
+		],
+		"hostname": "linkedin.com"
+	},
+	"reddit": {
+		"fetchSite": true,
+		"api": true,
+		"enabled": true,
+		"querySelectors": ["[data-lexical-editor='true']"],
+		"hostname": "reddit.com"
+	},
+	"chatGPT": {
+		"description": "don't trigger the extinction event - use unoffender",
+		"fetchSite": true,
+		"api": true,
+		"enabled": true,
+		"querySelectors": ["#prompt-textarea"],
+		"hostname": "chatgpt.com"
+	}
 }
-
