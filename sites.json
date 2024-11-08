@@ -35,8 +35,8 @@
         "fetchSite": true,
 	"api": true,
 	"enabled": true,
-        "querySelectors": [".share-box__text-editor, comments-comment-box-comment__text-editor"],
-        "hostname": "LinkedIn"
+        "querySelectors": [".share-box__text-editor", ".comments-comment-box-comment__text-editor"],
+        "hostname": "linkedin.com"
     },
     "reddit": {
         "fetchSite": true,
