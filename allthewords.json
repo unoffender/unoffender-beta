@@ -1,9 +1,9 @@
 {
 	"Facebook": {
-		"description": "Leaked algo-triggering words",
+		"description": "Leaked algo-triggering words from FB",
 		"fetchCat": true,
 		"api": true,
-		"included": true,
+		"included": false,
 		"terms": [
 			{
 				"term": "5hit"
@@ -3041,10 +3041,10 @@
 		]
 	},
 	"Google": {
-		"description": "Leaked terms from google - effect of use unknown",
+		"description": "Leaked terms from google - effect unknown, but likely on various google services",
 		"fetchCat": true,
 		"api": true,
-		"included": true,
+		"included": false,
 		"terms": [
 			{
 				"term": "2 girls 1 cup"
@@ -5920,10 +5920,10 @@
 		]
 	},
 	"Midjourney": {
-		"description": "Terms triggered when prompting",
+		"description": "Leaked terms triggered when prompting - note: anything ai is rapidly changing, so they've probably added a bunch",
 		"fetchCat": true,
 		"api": true,
-		"included": true,
+		"included": false,
 		"terms": [
 			{
 				"term": "Blood"
@@ -6465,10 +6465,10 @@
 		]
 	},
 	"Steam (banned)": {
-		"description": "2021 leak. Terms banned by steam",
+		"description": "Terms banned by steam. Leak from 2021.",
 		"fetchCat": true,
 		"api": true,
-		"included": true,
+		"included": false,
 		"terms": [
 			{
 				"term": "n+([ehiy]+|ay|ey|io|[il]+)[bgq$]+h?(a+|aer|a+h+|a+r+|e+|ea|eoa|e+r+|ie|ier|let|lit|o|or|r+|u|uh|uhr|u+r+|ward|y+)s*",
@@ -6744,10 +6744,10 @@
 		]
 	},
 	"Steam (profanity)": {
-		"description": "2021 leak. Terms triggering profanity filter",
+		"description": "Terms triggering profanity filter. Leak from 2021.",
 		"fetchCat": true,
 		"api": true,
-		"included": true,
+		"included": false,
 		"terms": [
 			{
 				"term": "(ape|bat|bull?|butt|dip|dog|dumb|ebo|holy|horse|jack|pedo|pig|ubi)\\W*sh(it|ti)s?",
@@ -7271,7 +7271,7 @@
 		"description": "Leaked terms affecting youtube comments and possibly videos",
 		"fetchCat": true,
 		"api": true,
-		"included": true,
+		"included": false,
 		"terms": [
 			{
 				"term": "2 girls 1 cup"
@@ -12478,10 +12478,10 @@
 		]
 	},
 	"Ethnic slurs": {
-		"description": "Includes wiki description",
+		"description": "List of ethnic slurs according to wiki with description. Contains several normally harmless terms. I've left them, because some moderators *will* upload this stuff uncritically to their filter and badly designed MR algorithm might still react. Add it to be aware that there might be a reaction.",
 		"fetchCat": true,
 		"api": true,
-		"included": true,
+		"included": false,
 		"terms": [
 			{
 				"term": ["Abbie", "Abe", "Abie"],
@@ -14678,10 +14678,10 @@
 		]
 	},
 	"Religious slurs": {
-		"description": "Includes wiki description.",
+		"description": "List of religious slurs according to wiki with description. Similar to the ethnic ones, contains several normally harmless terms, which I left in because it might still trigger censorship filters or badly designed MR algos.",
 		"fetchCat": true,
 		"api": true,
-		"included": true,
+		"included": false,
 		"terms": [
 			{
 				"term": ["Bible beater", "Bible basher"],
@@ -14999,10 +14999,10 @@
 		]
 	},
 	"Christian Blacklist": {
-		"description": "By FrontGate Media for use on Christian communities",
+		"description": "By FrontGate Media. Use to minimize Purgatory. Might also avoid censorship on Christian platforms, especially in facebook groups",
 		"fetchCat": true,
 		"api": true,
-		"included": true,
+		"included": false,
 		"terms": [
 			{
 				"term": "a55"
@@ -17176,7 +17176,7 @@
 		]
 	},
 	"Accumulated list": {
-		"description": "Generated from various moderator blocklists and AI/ML hate speech training. Not reviewed manually. Use with all other enabled too for 'maximum algo-trigger warning'",
+		"description": "Generated from various moderator blocklists and AI/ML hate speech training sets. Not reviewed manually, but it's pretty crazy what they consider offensive. Some extreme examples (like 'white people') has been removed. Use with all other categories enabled for 'maximum trigger warning'",
 		"fetchCat": true,
 		"api": true,
 		"included": false,
@@ -27326,9 +27326,6 @@
 				"term": "we1back"
 			},
 			{
-				"term": "weak"
-			},
-			{
 				"term": "weapon"
 			},
 			{
@@ -27420,12 +27417,6 @@
 			},
 			{
 				"term": "white bitch in"
-			},
-			{
-				"term": "white boy"
-			},
-			{
-				"term": "white person"
 			},
 			{
 				"term": "white trash"
@@ -28377,19 +28368,4 @@
 			}
 		]
 	},
-	"NotDefaultFetched": {
-		"description": "Leaked algo-triggering words",
-		"fetchCat": false,
-		"api": true,
-		"deleted":true,
-		"included": false,
-		"terms": [
-			{
-				"term": "shouldn't be shown by default"
-			},
-			{
-				"term": "also shouldn't be shown by default"
-			}
-		]
-	}
 }
