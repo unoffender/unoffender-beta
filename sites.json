@@ -39,13 +39,13 @@
 		"hostname": "Facebook"
 	},
 	"linkedin": {
-		"description": "jesus marie, i'm not commenting - i'm networking",
+		"description": "jesus marie, it's not posting, it's networking (can't handle shadow editor)",
 		"fetchSite": true,
 		"api": true,
 		"enabled": true,
 		"querySelectors": [
 			".share-box__text-editor",
-			".comments-comment-box-comment__text-editor"
+			".editor-container"
 		],
 		"hostname": "linkedin.com"
 	},
