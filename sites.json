@@ -20,7 +20,7 @@
 		"fetchSite": true,
 		"api": true,
 		"enabled": true,
-		"querySelectors": ["#\:s4"],
+		"querySelectors": ["#\\:s4"],
 		"hostname": "mail.google.com"
 	},
     "x": {
