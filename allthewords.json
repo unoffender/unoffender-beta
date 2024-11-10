@@ -3,10 +3,10 @@
 		"description": "Enabled by default when adding sites for quick testing",
 		"fetchCat": true,
 		"api": true,
-		"included": false,
+		"included": true,
 		"terms": [
 			{
-				"term": "#test",
+				"term": "/#test",
 				"description": "type this to test if it works"
 			}
 		]
