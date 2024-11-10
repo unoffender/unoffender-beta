@@ -6,11 +6,11 @@
 		"included": false,
 		"terms": [
 			{
-				"term": "#test",
+				"term": "test",
 				"description": "type this to test if it works"
 			},
 			{
-			"term": "<zxc<",
+			"term": "zxc",
 			"description": "less intuitive, but faster to type"
 			}
 		]
