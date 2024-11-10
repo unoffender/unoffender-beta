@@ -38,13 +38,6 @@
 		"querySelectors": [".DraftEditor-editorContainer"],
 		"hostname": "x.com"
 	},
-	"facebook": {
-		"fetchSite": true,
-		"api": true,
-		"enabled": true,
-		"querySelectors": ["[data-testid='statusTextarea']"],
-		"hostname": "Facebook"
-	},
 	"linkedin": {
 		"description": "jesus marie, it's not posting, it's networking (can't handle shadow editor)",
 		"fetchSite": true,
