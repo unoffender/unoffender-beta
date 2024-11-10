@@ -3,7 +3,7 @@
 		"fetchSite": true,
 		"api": true,
 		"enabled": true,
-		"querySelectors":         ["[aria-label=\"Message #general\"]"],
+		"querySelectors": ["[aria-label=\"Message #general\"]"],
 		"hostname": "discord.com"
 	},	
 	"youtube": {
