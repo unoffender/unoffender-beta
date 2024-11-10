@@ -1,4 +1,19 @@
 {
+	"Test Category": {
+		"description": "Enabled by default when adding sites for quick testing",
+		"fetchCat": true,
+		"api": true,
+		"included": false,
+		"terms": [{
+			"term": "#test",
+			"description": "type this to test if it works"
+		},
+			{
+			"term": "<zxc<",
+			"description":"less intuitive, but faster to type"
+			
+		}],
+	},
 	"Facebook": {
 		"description": "Leaked algo-triggering words from FB",
 		"fetchCat": true,
