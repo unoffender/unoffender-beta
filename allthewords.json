@@ -4,15 +4,16 @@
 		"fetchCat": true,
 		"api": true,
 		"included": false,
-		"terms": [{
-			"term": "#test",
-			"description": "type this to test if it works"
-		},
+		"terms": [
+			{
+				"term": "#test",
+				"description": "type this to test if it works"
+			},
 			{
 			"term": "<zxc<",
-			"description":"less intuitive, but faster to type"
-			
-		}]
+			"description": "less intuitive, but faster to type"
+			}
+		]
 	},
 	"Facebook": {
 		"description": "Leaked algo-triggering words from FB",
