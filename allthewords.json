@@ -8,10 +8,6 @@
 			{
 				"term": "/#test",
 				"description": "type this to test if it works"
-			},
-			{
-			"term": "/<zxc/<",
-			"description": "less intuitive, but faster to type"
 			}
 		]
 	},
