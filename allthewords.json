@@ -1,6 +1,6 @@
 {
 	"Test Category": {
-		"description": "Enabled by default when adding sites for quick testing",
+		"description": "Keep enabled and type #test for, uhm, testing",
 		"fetchCat": true,
 		"api": true,
 		"included": true,
