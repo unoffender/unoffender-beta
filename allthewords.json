@@ -6,7 +6,7 @@
 		"included": true,
 		"terms": [
 			{
-				"term": "/#test",
+				"term": "#test",
 				"description": "type this to test if it works"
 			}
 		]
