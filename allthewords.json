@@ -15,7 +15,7 @@
 		"description": "Leaked algo-triggering words from FB",
 		"fetchCat": true,
 		"api": true,
-		"included": false,
+		"included": true,
 		"terms": [
 			{
 				"term": "5hit"
@@ -3056,7 +3056,7 @@
 		"description": "Leaked terms from google - effect unknown, but likely on various google services",
 		"fetchCat": true,
 		"api": true,
-		"included": false,
+		"included": true,
 		"terms": [
 			{
 				"term": "2 girls 1 cup"
@@ -6480,7 +6480,7 @@
 		"description": "Terms banned by steam. Leak from 2021.",
 		"fetchCat": true,
 		"api": true,
-		"included": false,
+		"included": true,
 		"terms": [
 			{
 				"term": "n+([ehiy]+|ay|ey|io|[il]+)[bgq$]+h?(a+|aer|a+h+|a+r+|e+|ea|eoa|e+r+|ie|ier|let|lit|o|or|r+|u|uh|uhr|u+r+|ward|y+)s*",
@@ -7283,7 +7283,7 @@
 		"description": "Leaked terms affecting youtube comments and possibly videos",
 		"fetchCat": true,
 		"api": true,
-		"included": false,
+		"included": true,
 		"terms": [
 			{
 				"term": "2 girls 1 cup"
