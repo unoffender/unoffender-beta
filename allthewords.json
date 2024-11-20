@@ -1,6 +1,6 @@
 {
 	"Test Category": {
-		"description": "Keep enabled and type #test for, uhm, testing",
+		"description": "Keep enabled and type #test to check if a new site works",
 		"fetchCat": true,
 		"api": true,
 		"included": true,
