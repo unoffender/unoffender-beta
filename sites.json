@@ -8,7 +8,7 @@
 	},	
 	"youtube": {
 		"fetchSite": true,
-		"description": "video-based adpocalypse generator",
+		"description": "unoffender is adpocalypse proof (disclaimer: it's not)",
 		"api": true,
 		"enabled": true,
 		"querySelectors": ["#contenteditable-root"],
@@ -21,7 +21,10 @@
 		"enabled": true,
 		"markingMethod": "shadowEditor",
 		"querySelectors": [".forumtopic_reply_textarea"],
-		"hostname": "steamcommunity.com"
+		"hostname": "steamcommunity.com",
+		"categoriesEnabled": [
+		        "Steam (profanity)"
+		      ]
 	},
 	"gmail": {
 		"fetchSite": true,
@@ -32,14 +35,14 @@
 	},
 	"x": {
 		"fetchSite": true,
-		"description": "you can rename this to twitter - they won't know",
+		"description": "you can rename this to twitter - he won't know",
 		"api": true,
 		"enabled": true,
 		"querySelectors": [".DraftEditor-editorContainer"],
 		"hostname": "x.com"
 	},
 	"linkedin": {
-		"description": "jesus marie, it's not posting, it's networking (can't handle shadow editor)",
+		"description": "justify your SoMe addiction by calling it networking",
 		"fetchSite": true,
 		"api": true,
 		"enabled": true,
