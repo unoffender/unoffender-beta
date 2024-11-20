@@ -12,7 +12,8 @@
 		"api": true,
 		"enabled": true,
 		"querySelectors": ["#contenteditable-root"],
-		"hostname": "youtube.com"
+		"hostname": "youtube.com",
+		"categoriesEnabled": ["Google","Youtube"]
 	},
 	"steamcommunity": {
 		"fetchSite": true,
@@ -22,14 +23,15 @@
 		"markingMethod": "shadowEditor",
 		"querySelectors": [".forumtopic_reply_textarea"],
 		"hostname": "steamcommunity.com",
-		"categoriesEnabled": ["Steam (profanity)"]
+		"categoriesEnabled": ["Steam (profanity)","Steam (banned)"]
 	},
 	"gmail": {
 		"fetchSite": true,
 		"api": true,
 		"enabled": true,
 		"querySelectors": [".GP"],
-		"hostname": "mail.google.com"
+		"hostname": "mail.google.com",
+		"categoriesEnabled": ["Google"]
 	},
 	"x": {
 		"fetchSite": true,
