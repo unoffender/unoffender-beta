@@ -22,9 +22,7 @@
 		"markingMethod": "shadowEditor",
 		"querySelectors": [".forumtopic_reply_textarea"],
 		"hostname": "steamcommunity.com",
-		"categoriesEnabled": [
-		        "Steam (profanity)"
-		      ]
+		"categoriesEnabled": ["Steam (profanity)"]
 	},
 	"gmail": {
 		"fetchSite": true,
