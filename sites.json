@@ -57,7 +57,7 @@
 		"api": true,
 		"enabled": true,
 		"querySelectors": ["[data-lexical-editor='true']"],
-		"hostname": "reddit.com"
+		"hostname": "www.reddit.com"
 	},
 	"chatGPT": {
 		"description": "don't trigger the extinction event - use unoffender",
